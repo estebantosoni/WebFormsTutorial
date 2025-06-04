@@ -1,6 +1,0 @@
-X:\Programación\Proyects\WebFormsDemo\ProjectFees\bin\Debug\ProjectFees.dll
-X:\Programación\Proyects\WebFormsDemo\ProjectFees\bin\Debug\ProjectFees.pdb
-X:\Programación\Proyects\WebFormsDemo\ProjectFees\obj\Debug\ProjectFees.csproj.AssemblyReference.cache
-X:\Programación\Proyects\WebFormsDemo\ProjectFees\obj\Debug\ProjectFees.csproj.CoreCompileInputs.cache
-X:\Programación\Proyects\WebFormsDemo\ProjectFees\obj\Debug\ProjectFees.dll
-X:\Programación\Proyects\WebFormsDemo\ProjectFees\obj\Debug\ProjectFees.pdb
