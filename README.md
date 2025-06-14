@@ -3,6 +3,10 @@
 This repository accompanies **Marie Taylor's course**, which is still useful in 2025.  
 It contains all the examples presented in the videos.
 
+### How do I run the application?
+
+Simply clone the repository and start the project.
+
 ---
 
 ## ⚠️ Notes
